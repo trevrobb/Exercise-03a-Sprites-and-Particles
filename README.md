@@ -151,7 +151,7 @@ Select and drag tiles using the mouse.
 
 ## Implementation
 
-Built using Godot 3.3.3
+Built using Godot 3.4.2
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
