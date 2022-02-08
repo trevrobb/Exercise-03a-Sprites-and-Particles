@@ -96,7 +96,7 @@ Each of these five images should be named to correspond with the fruit depicted 
 
 Next, we need to create derivitive scenes to serve as the tiles in our game. Under the Scene menu, select New Inherited Scene. Find and select res://Pieces/Piece.tscn. An unsaved copy of the Piece scene will now open.
 
-In the Sprite node, replace the placeholder Texture with res://Assets/chick.png. Select the Piece node and, in the Inspector, update set the Piece field = Apple. Save the scene as res://Pieces/Apple.tscn (pay attention to the capitalization, the spelling, and the file extension). Then repeat that process with the following images (Piece->Piece field, and file names):
+In the Sprite node, replace the placeholder Texture with res://Assets/Apple.png. Select the Piece node and, in the Inspector, update set the Piece field = Apple. Save the scene as res://Pieces/Apple.tscn (pay attention to the capitalization, the spelling, and the file extension). Then repeat that process with the following images (Piece->Piece field, and file names):
   * Apple
   * Banana
   * Blueberry
